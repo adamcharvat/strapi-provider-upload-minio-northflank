@@ -1,0 +1,17 @@
+{
+  "name": "strapi-provider-upload-minio-northflank",
+  "version": "1.0.0",
+  "maintainers": [
+    "adam@northflank.com"
+  ],
+  "description": "MinIO upload provider for Strapi, customised for deployments on Northflank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Northflank",
+  "license": "ISC",
+  "dependencies": {
+    "minio": "^7.0.19"
+  }
+}
